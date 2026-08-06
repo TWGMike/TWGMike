@@ -1,4 +1,4 @@
-## Hello! I'm TWGMike!
+## Hello! I'm TWGMike / Gingerly Gaming!
 
 Capable of coding in JavaScript and Python
 
